@@ -79,7 +79,7 @@ J2EE,SpringBoot(Version 2.7.3), JPA ,Hibernate , MySql.
   </p>
 
 
-<h2 align="center"> 💻 Technology Used </h2>
+<h1 align="center"> 💻 Technology Used </h1>
 <p align="center">
  
 <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
