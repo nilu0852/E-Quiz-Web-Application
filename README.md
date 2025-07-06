@@ -9,28 +9,6 @@ The E-Quiz Application project developed to overcome the time consuming problem 
 The objective of this project is to manage the details of students, Quiz papers, marks, Quiz topics, and papers in a good manner.The performance of  the  student  will  be  fully  monitored  by Faculty. The project will reduce the manual process in managing Quiz and all issues regarding that.
 It provides a common platform to connect student and teacher online. The registered teacher can create Quiz and registered student can give quiz and can access himself/herself at given schedule
 
-###### Group Leader: Nilima Govind Pansare
-
-###### Group Members:
-<div>
- <table>
- <th>Name</th> <th>PRN No</th> <th>Role</th>
-<tr>
-<td>1.Nilima Pansare</td> <td>220345920065</td> <td>worked on back-end(spring boot)</td>
-</tr>  
-<tr>
-<td>2.Rushikesh Petkar</td> <td>220345920087</td> <td>worked on back-end(spring boot)</td>
-</tr>
-<tr>
-<td>3.Shubham sharma</td> <td>220345920098</td> <td>worked on back-end(spring boot)</td>
-</tr>
-<tr>
-<td>4.Bhartesh Girmal</td> <td>220345920026 </td> <td> worked on front-end(ReactJs)</td>
-</tr>
-<tr>
-<td>5.Hardik Parab</td> <td>220345920042</td> <td>worked on front-end(ReactJs)</td>
-</tr>
-</table>
 <div>
 <b> Modules of E-quiz Web Application</b>
 
